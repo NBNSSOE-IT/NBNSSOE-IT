@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>NBNSSOE-IT ReadMe</title>
-</head>
-<body>
-    <h1>Welcome to NBNSSOE IT Department</h1>
+<h1>Welcome to NBNSSOE IT Department</h1>
         <div>
             <h2>The Vision of Our Institute</h2>
             <b><p align="center">उत्तमपुरुषान् उत्तमाभियंतॄन् निर्मातुं कटीबध्दाः वयम् |</p></b>
@@ -30,5 +21,3 @@
             <li>Our Endeavour is to provide conductive environment for life skill development of students while exercising effective Learning Strategies.</li>
         </ul>
     </div>
-</body>
-</html>
