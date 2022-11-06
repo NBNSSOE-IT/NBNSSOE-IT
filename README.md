@@ -1,5 +1,5 @@
 <h1>Welcome to NBNSSOE IT Department</h1>
-<center><img src="./instituteImage.png"></img></center>
+<p align="center"><img src="./instituteImage.png"></img></center></p>
 <div>
     <h2>Vision of Our Institute</h2>
     <b><p align="center">उत्तमपुरुषान् उत्तमाभियंतॄन् निर्मातुं कटीबध्दाः वयम् |</p></b>
