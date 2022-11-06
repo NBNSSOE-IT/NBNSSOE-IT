@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @NBNSSOE-IT
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-NBNSSOE-IT/NBNSSOE-IT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NBNSSOE-IT ReadMe</title>
+</head>
+<body>
+    <h1>Welcome to NBNSSOE IT Department</h1>
+        <div>
+            <h2>The Vision of Our Institute</h2>
+            <b><p align="center">उत्तमपुरुषान् उत्तमाभियंतॄन् निर्मातुं कटीबध्दाः वयम् |</p></b>
+        </div>
+        <div>
+            <h2>The Mission of Our Institute</h2>
+            <ul>
+                <li>We believe in and work for the holistic development of students and teachers.</li>
+                <li>We strive to achieve this by imbibing a unique value system, transparent work culture, excellent academic and physical environment conducive to learning, creativity and technology transfer.</li>
+            </ul>
+        </div>
+    <div>
+        <h2>The Vision of IT Department</h2>
+        <b><p align="center">The department of Information Technology is committed to grow on a path of delivering distinctive high quality education, fostering research, creativity and innovation.</p></b>
+    </div>
+    <div>
+        <h2>The Mission of Our Institute</h2>
+        <ul>
+            <li>The department of Information Technology in partnership with all stake holders will harness Talent, Potential for application based indigenous product development in future.</li>
+            <li>Our Endeavour is to provide conductive environment for life skill development of students while exercising effective Learning Strategies.</li>
+        </ul>
+    </div>
+</body>
+</html>
